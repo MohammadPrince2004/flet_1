@@ -162,5 +162,5 @@ def main(page:Page):
     page.add(main_con)
     
 
-app(target=main)
+app(main)
 
